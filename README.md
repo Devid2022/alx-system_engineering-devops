@@ -1,1 +1,1 @@
-This is the description of the repository
+Understanding Shell concepts and try to find the correct bash command.
